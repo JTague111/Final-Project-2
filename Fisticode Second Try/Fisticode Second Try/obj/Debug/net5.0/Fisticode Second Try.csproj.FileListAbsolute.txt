@@ -1,0 +1,16 @@
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\Fisticode Second Try.exe
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\Fisticode Second Try.deps.json
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\Fisticode Second Try.runtimeconfig.json
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\Fisticode Second Try.runtimeconfig.dev.json
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\Fisticode Second Try.dll
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\ref\Fisticode Second Try.dll
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\bin\Debug\net5.0\Fisticode Second Try.pdb
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.dll
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\ref\Fisticode Second Try.dll
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.pdb
+C:\Users\Jtagu\source\repos\Fisticode Second Try\Fisticode Second Try\obj\Debug\net5.0\Fisticode Second Try.genruntimeconfig.cache

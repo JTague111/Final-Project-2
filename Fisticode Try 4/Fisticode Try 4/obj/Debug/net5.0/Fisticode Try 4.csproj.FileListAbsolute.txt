@@ -1,0 +1,16 @@
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\Fisticode Try 4.exe
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\Fisticode Try 4.deps.json
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\Fisticode Try 4.runtimeconfig.json
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\Fisticode Try 4.runtimeconfig.dev.json
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\Fisticode Try 4.dll
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\ref\Fisticode Try 4.dll
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\bin\Debug\net5.0\Fisticode Try 4.pdb
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.dll
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\ref\Fisticode Try 4.dll
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.pdb
+C:\Users\Jtagu\source\repos\Fisticode Try 4\Fisticode Try 4\obj\Debug\net5.0\Fisticode Try 4.genruntimeconfig.cache

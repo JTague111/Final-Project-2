@@ -1,0 +1,16 @@
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\SWAPI.exe
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\SWAPI.deps.json
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\SWAPI.runtimeconfig.json
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\SWAPI.runtimeconfig.dev.json
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\SWAPI.dll
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\ref\SWAPI.dll
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\bin\Debug\net5.0\SWAPI.pdb
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.dll
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\ref\SWAPI.dll
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.pdb
+C:\Users\Jtagu\source\repos\SWAPI\SWAPI\obj\Debug\net5.0\SWAPI.genruntimeconfig.cache

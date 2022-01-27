@@ -1,0 +1,16 @@
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\Fisticode.exe
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\Fisticode.deps.json
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\Fisticode.runtimeconfig.json
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\Fisticode.runtimeconfig.dev.json
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\Fisticode.dll
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\ref\Fisticode.dll
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\bin\Debug\net5.0\Fisticode.pdb
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.dll
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\ref\Fisticode.dll
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.pdb
+C:\Users\Jtagu\source\repos\Punchout\Fisticode\obj\Debug\net5.0\Fisticode.genruntimeconfig.cache

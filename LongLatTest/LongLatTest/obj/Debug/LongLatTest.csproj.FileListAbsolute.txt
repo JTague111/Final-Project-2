@@ -1,0 +1,6 @@
+C:\Users\Jtagu\source\repos\LongLatTest\LongLatTest\obj\Debug\LongLatTest.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\LongLatTest\LongLatTest\obj\Debug\LongLatTest.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\LongLatTest\LongLatTest\bin\Debug\LongLatTest.dll
+C:\Users\Jtagu\source\repos\LongLatTest\LongLatTest\bin\Debug\LongLatTest.pdb
+C:\Users\Jtagu\source\repos\LongLatTest\LongLatTest\obj\Debug\LongLatTest.dll
+C:\Users\Jtagu\source\repos\LongLatTest\LongLatTest\obj\Debug\LongLatTest.pdb

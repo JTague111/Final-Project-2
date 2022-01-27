@@ -1,0 +1,14 @@
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\BakerStreetBoys.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\BakerStreetBoys.pdb
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\obj\Debug\BakerStreetBoys.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\obj\Debug\BakerStreetBoys.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\obj\Debug\BakerStreetBoys.csproj.CopyComplete
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\obj\Debug\BakerStreetBoys.dll
+C:\Users\Jtagu\source\repos\BakerStreetBoys\BakerStreetBoys\obj\Debug\BakerStreetBoys.pdb

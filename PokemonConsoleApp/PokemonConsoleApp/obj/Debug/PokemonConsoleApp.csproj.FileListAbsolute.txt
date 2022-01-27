@@ -1,0 +1,7 @@
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.exe.config
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.exe
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.pdb
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.exe
+C:\Users\Jtagu\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.pdb

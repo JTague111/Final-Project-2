@@ -1,0 +1,6 @@
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_Take_3\bin\Debug\Challenge_1_Take_3.dll
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_Take_3\bin\Debug\Challenge_1_Take_3.pdb
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_Take_3\obj\Debug\Challenge_1_Take_3.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_Take_3\obj\Debug\Challenge_1_Take_3.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_Take_3\obj\Debug\Challenge_1_Take_3.dll
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_Take_3\obj\Debug\Challenge_1_Take_3.pdb

@@ -1,0 +1,16 @@
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\Async_Await.exe
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\Async_Await.deps.json
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\Async_Await.runtimeconfig.json
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\Async_Await.runtimeconfig.dev.json
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\Async_Await.dll
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\ref\Async_Await.dll
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\bin\Debug\net5.0\Async_Await.pdb
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.dll
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\ref\Async_Await.dll
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.pdb
+C:\Users\Jtagu\source\repos\Async_Await\Async_Await\obj\Debug\net5.0\Async_Await.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_ConsoleApp\obj\Debug\net5.0\Challenge_1_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_ConsoleApp\obj\Debug\net5.0\Challenge_1_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_ConsoleApp\obj\Debug\net5.0\Challenge_1_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_ConsoleApp\obj\Debug\net5.0\Challenge_1_ConsoleApp.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\Challenge_1_Take_3\Challenge_1_ConsoleApp\obj\Debug\net5.0\Challenge_1_ConsoleApp.csproj.CoreCompileInputs.cache

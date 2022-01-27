@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fisticode Second Try/1.0.0": {
+        "runtime": {
+          "Fisticode Second Try.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fisticode Second Try/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
